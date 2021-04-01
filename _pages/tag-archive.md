@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Challenges by Tag"
 permalink: /tags/
 layout: tags
-author_profile: true
 ---

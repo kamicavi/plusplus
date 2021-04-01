@@ -1,8 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "How it Works"
+    url: /how-it-works/
+  - title: "Our Mentors"
+    url: /mentors/
+  - title: "Code of Conduct"
+    url: /code-of-conduct/
   - title: "Tags"
     url: /tags/
   - title: "About"
