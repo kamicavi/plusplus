@@ -13,25 +13,44 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+theme: minimal-mistakes-jekyll
+locale: en-GB
+title: "Prewired++"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Prewired++ takes the Prewired community online.
+url: "https://plusplus.prewired.org" 
+baseurl: ""
+title_separator: "|"
+repository: "prewired/plusplus"
+teaser: ""
+github: [metadata]
+logo: "/assets/images/88x88.png"
+
+twitter_username: prewired 
+github_username: prewired
 minimal_mistakes_skin: default
+search_provider: algolia
 search: true
+
+# SEO Related
+google_site_verification :
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# kramdown: 
+#   parse_block_html: true
+#remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
 
 include:
   - _pages
@@ -56,11 +75,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "name"
+  avatar : ""
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -94,7 +114,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -105,11 +125,21 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
