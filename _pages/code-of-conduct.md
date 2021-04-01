@@ -1,6 +1,7 @@
 ---
 title: "Code of Conduct"
 permalink: /code-of-conduct/
-layout: wide
+layout: single
+classes: wide
 ---
 our bushido

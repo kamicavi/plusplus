@@ -1,7 +1,8 @@
 ---
 title: "Our Mentors"
 permalink: /mentors/
-layout: wide
+layout: single
+classes: wide
 ---
 
 This page will contain photos and brief bios of our mentors.
