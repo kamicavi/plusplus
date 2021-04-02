@@ -1,4 +1,6 @@
 main:
+  - title: "Challenges"
+    url: /challenges/
   - title: "How it Works"
     url: /how-it-works/
   - title: "Our Mentors"

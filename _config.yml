@@ -25,8 +25,8 @@ title_separator: "|"
 repository: "prewired/plusplus"
 teaser: ""
 github: [metadata]
-logo: "/assets/images/88x88.png"
-masthead_title: "Home"
+#logo: "/assets/images/88x88.png"
+masthead_title: "Prewired++"
 
 atom_feed:
   hide: true
@@ -112,6 +112,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+collections:
+  challenges:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -131,6 +136,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _challenges
+  - scope:
+      path: "_challenges"
+      type: challenges
+    values:
+      layout: single
+      author_profile: false
+      share: false
 
 category_archive:
   type: jekyll-archives
