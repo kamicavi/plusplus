@@ -1,15 +1,14 @@
 ---
 title: "Basic Web Dev"
 excerpt: "Create a simple website using only HTML and CSS."
-
 tags: basic, web
+author: Ewan
 header:
-#  image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/html-css.png
 sidebar:
   - title: "Mentors"
- #   image: http://placehold.it/350x250
- #   image_alt: "logo"
+    image: /assets/images/html-css.png
+    image_alt: "assets/images/88x88.png"
     text: "Ewan"
   - title: "Resources"
     text: "[Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)

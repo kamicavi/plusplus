@@ -1,0 +1,11 @@
+Ewan:
+  name        : "Ewan"
+  bio         : "Long-time teacher at School of Informatics, University of Edinburgh"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://example.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ewanhklein"
