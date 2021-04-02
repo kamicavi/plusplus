@@ -1,27 +1,39 @@
 ---
-title: "Basic Web Dev"
-excerpt: "Create a simple website using only HTML and CSS."
+title: "Basic Project Tools"
+excerpt: "Familiarise yourself with industry-standard project tools."
 tags: 
   - basic 
   - web
-author: Ewan
+  - web-based
+  - tools
+  - kanban
+  - Trello
+  - git
+  - GitHub
+
+
+
+author: Ben
 header:
   teaser: /assets/images/html-css.png
 sidebar:
   - title: "Mentors"
     image: /assets/images/html-css.png
     image_alt: "assets/images/88x88.png"
-    text: "Ewan"
+    text: "Ben"
   - title: "Badge"
-    text: "[Web Development Foundations](https://eu.badgr.com/public/badges/UV30WM3pRjOvkww9h5welw)"
+    text: "TBD"
 ---
 
-Build a website that contains at least two separate pages. Include navigation so that the user can move from one page to another. Use a CSS stylesheet to make the website look interesting and attractive. Discuss with your mentor how to get the website hosted online. Make sure that you don’t include any personal information of team members on the website.
+Become comfortable using various online tools often found in industry workplaces, such as Virtual kan-ban boards, collaborative coding platforms and version control systems.
 
 ## Possible Projects
-Build a website that showcases something that you like. This could be about a gaming platform, or favourite animal, 
-or musician. Alternatively, build a simple How To guide, e.g. how to use TikTok, how to play Minecraft.
+Start a new project or look at one you’ve already started and break it down into smaller chunks, then add these to a virtual kanban board such as Trello. Once you’ve done a little work, add this to a Versions Control System (VCS) such as GitHub.
+
+If you are struggling with starting a new project, then make a Trello page for some of the themes you enjoy, and then see if this helps you visualise ways you could work these into a technical project, such as a website or app.
+
 
 ## Resources
-* [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-* [CSS — Styling the web](https://developer.mozilla.org/en-US/docs/Learn/CSS)"
+* [kanban](https://www.atlassian.com/agile/kanban)
+* [Trello](https://trello.com)
+* [GitHub](https://github.com/)
