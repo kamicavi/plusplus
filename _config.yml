@@ -142,6 +142,7 @@ defaults:
       type: challenges
     values:
       layout: single
+      classes: wide
       author_profile: false
       share: false
 
