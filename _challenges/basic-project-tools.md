@@ -10,16 +10,13 @@ tags:
   - Trello
   - git
   - GitHub
-
-
-
 author: Ben
 header:
-  teaser: /assets/images/html-css.png
+  teaser: /assets/images/kanban.png
 sidebar:
   - title: "Mentors"
-    image: /assets/images/html-css.png
-    image_alt: "assets/images/88x88.png"
+    image: /assets/images/kanban.png
+    image_alt: "icon of kanban board"
     text: "Ben"
   - title: "Badge"
     text: "TBD"

@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
@@ -31,8 +26,12 @@ masthead_title: "Prewired++"
 atom_feed:
   hide: true
 
+# not clear which of these Twitter settings is right
 twitter_username: prewired 
 github_username: prewired
+
+twitter:
+  username: "mmistakes-theme"
 
 minimal_mistakes_skin: dirt
 search_provider: algolia
@@ -40,6 +39,15 @@ search: true
 
 # SEO Related
 google_site_verification :
+
+social:
+  type:  Organization
+  name:  Prewired
+  links:
+    - "https://twitter.com/prewired"
+    # - "https://www.facebook.com/yourFacebook"
+    # - "https://instagram.com/yourProfile"
+    # - "https://www.linkedin.com/in/yourprofile"
 
 # Build settings
 markdown: kramdown
@@ -145,6 +153,7 @@ defaults:
       classes: wide
       author_profile: false
       share: false
+
 
 category_archive:
   type: jekyll-archives
