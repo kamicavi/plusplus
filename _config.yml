@@ -129,6 +129,9 @@ collections:
   challenges:
     output: true
     permalink: /:collection/:path/
+  mentors:
+    output: false
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
