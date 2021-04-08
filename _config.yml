@@ -1,5 +1,4 @@
 
-#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
@@ -35,7 +34,7 @@ twitter:
 
 minimal_mistakes_skin: dirt
 search_provider: algolia
-search: true
+search: false
 
 # SEO Related
 google_site_verification :
@@ -45,7 +44,7 @@ social:
   name:  Prewired
   links:
     - "https://twitter.com/prewired"
-    # - "https://www.facebook.com/yourFacebook"
+    - "https://www.facebook.com/Prewired1"
     # - "https://instagram.com/yourProfile"
     # - "https://www.linkedin.com/in/yourprofile"
 
