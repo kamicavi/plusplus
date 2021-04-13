@@ -82,6 +82,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _posts
+  - .jekyll-cache
 
 
 # Plugins (previously gems:)
