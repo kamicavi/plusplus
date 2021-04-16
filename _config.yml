@@ -32,7 +32,7 @@ github_username: prewired
 twitter:
   username: "mmistakes-theme"
 
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search_provider: algolia
 search: false
 
