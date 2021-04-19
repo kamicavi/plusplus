@@ -4,7 +4,7 @@ main:
   - title: "How it Works"
     url: /how-it-works/
   - title: "Our Mentors"
-   url: /mentors/
+    url: /mentors/
   - title: "Code of Conduct"
     url: /code-of-conduct/
   - title: "About"
