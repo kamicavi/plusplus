@@ -5,3 +5,9 @@ _site
 Gemfile.lock
 _image_sources
 _posts
+
+.vscode
+*.code-workspace
+
+EoDD_schedule*
+

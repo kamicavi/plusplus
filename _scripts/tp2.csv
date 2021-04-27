@@ -1,0 +1,14 @@
+Title,Teaser text,Description,Example projects,Tags,Mentors,Resources,Badge,Level
+Maps are gr8 / Putting data on a map,Visualise data that has geospatial coordinates by plotting it on a digital map,"A surprisingly large amount of data is geospatial. This means that it involves information that can be located on a map of the earth. The simplest kind of information consists of points that have geospatial coordinates such as latitude and longitude. For example, the coordinates (55.951, -3.189) give the approximate location of Edinburgh Castle. The other two main kinds of geospatial data are lines (e.g., the route of the Forth Road Bridge and polygons (e.g., the shape formed by Gyle Shopping Centre).
+Doing this challenge involves exploring one or more geospatial datasets and seeing whether you can represent it on a map in an interesting way.","Which areas of Scotland were most strongly in favour of Independence in the last referendum?
+How many fast food outlets can you reach in a 15 minute walk?
+Which places in Scotland produced the most household waste per head of population?","geospatial, mapping","Rosalyn, Jelmer, Ben","There are lots of geospatial datasets at https://github.com/awesomedata/awesome-public-datasets#gis 
+ONS Geoportal: https://geoportal.statistics.gov.uk/ 
+Weather data: https://openweathermap.org/api 
+City of Edinburgh Open Map Data Portal: https://data.edinburghcouncilmaps.info/ 
+National Biodiversity Network Scotland: https://scotland.nbnatlas.org/
+Scottish Environmental Protection Agency (SEPA): https://www.sepa.org.uk/environment/environmental-data/ 
+For displaying maps on a web page, we recommend the JavaScript mapping library Leaflet.js. Tutorial: https://www.tutorialspoint.com/leafletjs 
+If you don’t want to use JavaScript, there is a Python interface to Leaflet called Folium: https://python-visualization.github.io/folium/. 
+If you want to manipulate geospatial data in Python, GeoPandas (https://geopandas.org) is great.
+Creating isochrone maps in Python (mapping journey time from certain points): https://geoffboeing.com/2017/08/isochrone-maps-osmnx-python/",Geospatial analysis,Intermediate
