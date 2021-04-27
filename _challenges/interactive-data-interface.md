@@ -1,18 +1,13 @@
 ---
-Badge: Interactive data visualisation
-Level: Advanced
-Mentors: .nan
+badge: Interactive data visualisation
+excerpt: Create a website/app that allows the user to interact with a dataset
+level: Advanced
+mentors: .nan
 tags:
 - interactive interface
 - data
 - web dev
-excerpt: Create a website/app that allows the user to interact with a dataset
 title: Interactive data interface
-sidebar:
-  - title: "Mentors"
-    text: "Ben, Charlotte"
-  - title: "Badge"
-    text: "TBD"
 ---
 Rather than just displaying data, make it possible for the user to interact with it. This could involve search, using a control to alter the view, filtering by some feature, or even adding new data.
 

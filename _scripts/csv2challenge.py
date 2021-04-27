@@ -1,12 +1,15 @@
 #!/usr/local/bin/env python3
 # coding: utf-8
 
+import os
 from jinja2 import Environment, FileSystemLoader
 env = Environment(
     loader=FileSystemLoader('.'),lstrip_blocks=True, trim_blocks=True)
 import pandas as pd
 import yaml
 from slugify import slugify
+
+challenge_path = '../_challenges'
 
 def input_csv(infile):
     with open(infile, newline='') as csvfile:
@@ -31,7 +34,6 @@ df = relabel_df(df)
 
 def csv2dict(df):
     csvdict = df.to_dict(orient='records')[0]
-    outfname = slugify(csvdict['title']) + '.md'
 
     try:
         tags = csvdict['tags'].split(',')
@@ -46,9 +48,16 @@ def csv2dict(df):
         csvdict['mentors'] = mentors
     except AttributeError:
         pass
-    return (csvdict, outfname)
+    return csvdict
 
-csvdict, outfname = csv2dict(df)
+csvdict = csv2dict(df)
+
+def make_outfname(csvdict):
+    outfname = slugify(csvdict['title']) + '.md'
+    outfpath = os.path.join(challenge_path, outfname)
+    return outfpath
+
+outfpath = make_outfname(csvdict)
 
 def build_content(csvdict):
     yamlkeys = ['title', 'excerpt', 'tags', 'mentors', 'badge', 'level']
@@ -67,17 +76,17 @@ def build_content(csvdict):
 
 content = build_content(csvdict)
 
-def render_template(tpl = 'template.md', debug = False):
+def render_template(outfpath, tpl = 'template.md', debug = False):
     template = env.get_template(tpl)
 
     t = template.render(content=content)
-    with open(outfname, 'w') as outfile:
+    with open(outfpath, 'w') as outfile:
         print(t, file=outfile)
-        print('Printing to {}'.format(outfname))
+        print('Printing to {}'.format(outfpath))
     if debug:
         print(t)
 
-render_template(debug=False)
+render_template(outfpath, debug=False)
 
 
 
