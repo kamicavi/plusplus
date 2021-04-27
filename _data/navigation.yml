@@ -1,8 +1,8 @@
 main:
-  # - title: "Challenges"
-  #   url: /challenges/
   - title: "How it Works"
     url: /how-it-works/
+  - title: "Challenges"
+    url: /challenges/
   - title: "Open Badges"
     url: /open-badges/   
   # - title: "Our Mentors"

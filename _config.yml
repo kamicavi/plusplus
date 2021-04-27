@@ -157,7 +157,7 @@ defaults:
       path: "_challenges"
       type: challenges
     values:
-      layout: single
+      layout: mysingle
       classes: wide
       author_profile: false
       share: false
