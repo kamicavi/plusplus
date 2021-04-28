@@ -2,12 +2,18 @@
 # coding: utf-8
 
 import os
+
 from jinja2 import Environment, FileSystemLoader
+
 env = Environment(
     loader=FileSystemLoader('.'),lstrip_blocks=True, trim_blocks=True)
+import argparse
+
 import pandas as pd
 import yaml
 from slugify import slugify
+
+parser = argparse.ArgumentParser()
 
 challenge_path = '../_challenges'
 
