@@ -16,8 +16,6 @@ def input_csv(infile):
         df = pd.read_csv(csvfile)
     return df
 
-df = input_csv('tp3.csv')
-
 def relabel_df(df):
     df = df.rename(columns={'Title':'title',
                             'Teaser text':'excerpt',
@@ -30,7 +28,7 @@ def relabel_df(df):
                             'Level':'level'
                            })
     return df
-df = relabel_df(df)
+
 
 def csv2dict(df):
     csvdict = df.to_dict(orient='records')[0]
@@ -50,14 +48,11 @@ def csv2dict(df):
         pass
     return csvdict
 
-csvdict = csv2dict(df)
 
 def make_outfname(csvdict):
     outfname = slugify(csvdict['title']) + '.md'
     outfpath = os.path.join(challenge_path, outfname)
     return outfpath
-
-outfpath = make_outfname(csvdict)
 
 def build_content(csvdict):
     yamlkeys = ['title', 'excerpt', 'tags', 'mentors', 'badge', 'level']
@@ -74,9 +69,7 @@ def build_content(csvdict):
     content['yaml'] = yml
     return content
 
-content = build_content(csvdict)
-
-def render_template(outfpath, tpl = 'template.md', debug = False):
+def render_template(content, outfpath, tpl = 'template.md', debug = False):
     template = env.get_template(tpl)
 
     t = template.render(content=content)
@@ -86,8 +79,17 @@ def render_template(outfpath, tpl = 'template.md', debug = False):
     if debug:
         print(t)
 
-render_template(outfpath, debug=False)
+
+def main():
+    df = input_csv('tp1.csv')   
+    df = relabel_df(df)
+    csvdict = csv2dict(df)
+    outfpath = make_outfname(csvdict)
+    content = build_content(csvdict)
+    render_template(content, outfpath, debug=False)
 
 
+if __name__ == "__main__":
+    main()
 
 
