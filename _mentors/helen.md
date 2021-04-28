@@ -1,6 +1,6 @@
 ---
 title: "Helen"
-excerpt: "I work as a backend Software Developer at MADE.COM. I primarily work in Python to build the tools that get you your sofa."
+excerpt: "I work as a backend Software Developer at MADE.COM. I primarily work in Python to build the tools that get you your sofa..."
 header:  
   teaser: /assets/images/helen_th.jpg
 sidebar:
@@ -13,5 +13,8 @@ I work as a backend Software Developer at MADE.COM. I primarily work in Python t
 
 * Python
 * Django
+* test-driven development
+* domain-driven design
 * databases
+
 

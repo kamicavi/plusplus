@@ -11,5 +11,13 @@ Hi, I’m Jelmer. I like building stuff, whether that’s with lego or with code
 
 # Expertise
 
+* JavaScript
+* Python
+* C++
 * text processing
+* artificial intelligence 
+* geospatial data 
+* web development
+
+
 

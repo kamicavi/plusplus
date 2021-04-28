@@ -14,5 +14,8 @@ In my spare time I dance with the Edinburgh Bhangra Crew and love reading and go
 
 # Expertise
 
+* data analysis
+* Python
+* github
+* computer simulation
 * machine learning
-* simulation

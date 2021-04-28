@@ -1,6 +1,6 @@
 ---
 title: "Charlotte"
-excerpt: "I'm a designer at a small digital agency in Edinburgh, where I help to create websites."
+excerpt: "I'm a designer at a small digital agency in Edinburgh, where I help to create websites..."
 header:  
   teaser: /assets/images/charlotte_th.jpg
 sidebar:
@@ -12,6 +12,13 @@ I'm a designer at a small digital agency in Edinburgh, where I help to create we
 
 # Expertise
 
-* web development
-* robotics
-* games
+
+* web development (HTML, CSS, JQuery, JavaScript)
+* Processing & p5.js
+* Java
+* games design
+* sound and motion
+* video editing
+* Arduino
+* Unity
+* Python

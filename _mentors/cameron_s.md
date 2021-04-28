@@ -11,4 +11,8 @@ I'm Cameron, I am a Software Developer, Network Engineer, Photographer, occasion
 
 # Expertise
 
-* networking
+* Python
+* Bash
+* DevOps
+* network engineering
+* Linux
