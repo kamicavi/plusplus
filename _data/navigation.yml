@@ -5,8 +5,8 @@ main:
     url: /challenges/
   - title: "Open Badges"
     url: /open-badges/   
-  # - title: "Our Mentors"
-  #   url: /mentors/
+  - title: "Our Mentors"
+    url: /mentors/
   - title: "Code of Conduct"
     url: /code-of-conduct/
   - title: "About"

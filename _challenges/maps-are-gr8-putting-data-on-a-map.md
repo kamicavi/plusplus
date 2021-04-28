@@ -1,16 +1,17 @@
 ---
-Badge: Geospatial analysis
-Level: Intermediate
-Mentors:
+badge: Geospatial analysis
+excerpt: Visualise data that has geospatial coordinates by plotting it on a digital
+  map
+level: Intermediate
+mentors:
 - Rosalyn
 - Jelmer
 - Ben
-Tags:
+tags:
 - geospatial
 - mapping
-Teaser text: Visualise data that has geospatial coordinates by plotting it on a digital
-  map
-Title: Maps are gr8 / Putting data on a map
+title: Maps are gr8 / Putting data on a map
+sidebar: true
 ---
 A surprisingly large amount of data is geospatial. This means that it involves information that can be located on a map of the earth. The simplest kind of information consists of points that have geospatial coordinates such as latitude and longitude. For example, the coordinates (55.951, -3.189) give the approximate location of Edinburgh Castle. The other two main kinds of geospatial data are lines (e.g., the route of the Forth Road Bridge and polygons (e.g., the shape formed by Gyle Shopping Centre).
 Doing this challenge involves exploring one or more geospatial datasets and seeing whether you can represent it on a map in an interesting way.
