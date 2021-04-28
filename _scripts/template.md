@@ -1,5 +1,6 @@
 ---
 {{ content.yaml -}}
+sidebar: true
 ---
 {{ content.description | urlize() }}
 
