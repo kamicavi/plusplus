@@ -2,7 +2,8 @@
 badge: Interactive data visualisation
 excerpt: Create a website/app that allows the user to interact with a dataset
 level: Advanced
-mentors: .nan
+mentors:
+- TBD
 tags:
 - interactive interface
 - data

@@ -1,7 +1,7 @@
 Title,Teaser text,Description,Example projects,Tags,Mentors,Resources,Badge,Level
 Interactive data interface,Create a website/app that allows the user to interact with a dataset,"Rather than just displaying data, make it possible for the user to interact with it. This could involve search, using a control to alter the view, filtering by some feature, or even adding new data.","A map showing animal migrations which can be updated according to the time of year. 
 A web page that takes in a postcode and displays the location of restaurants within a certain distance of that postcode.
-See the COVID-19 data dashboard for some more ideas.","interactive interface, data, web dev",,"Shiny is an R package that makes it easy to build interactive web apps straight from R: https://shiny.rstudio.com/ 
+See the COVID-19 data dashboard for some more ideas.","interactive interface, data, web dev",TBD,"Shiny is an R package that makes it easy to build interactive web apps straight from R: https://shiny.rstudio.com/ 
 
 Jupyter widgets allow you to build interactive GUIs for Python notebooks: https://ipywidgets.readthedocs.io 
 
