@@ -15,17 +15,27 @@ env = Environment(
 parser = argparse.ArgumentParser()
 
 challenge_path = '../_challenges'
+csv_path = 'CSV'
+
+# def input_csv(infile, transpose=True):
+#     """
+#     Open a CSV file for reading
+#     """
+#     with open(infile, newline='') as csvfile:
+#         df = pd.read_csv(csvfile)
+#     if transpose:
+#         df.set_index('Attribute', inplace=True)
+#         df = df.transpose()
+#     return df
 
 
-def input_csv(infile, transpose=True):
+def input_csv(infile):
     """
     Open a CSV file for reading
     """
     with open(infile, newline='') as csvfile:
-        df = pd.read_csv(csvfile)
-    if transpose:
-        df.set_index('Attribute', inplace=True)
-        df = df.transpose()
+        df = pd.read_csv(csvfile, header=None, index_col=0)
+    df = df.squeeze()
     return df
 
 
@@ -33,16 +43,16 @@ def relabel_df(df):
     """
     Modify the column labels to fit into Jekyll. Default to lowercase.
     """
-    df = df.rename(columns={'Title': 'title',
-                            'Teaser text': 'excerpt',
-                            'Description': 'description',
-                            'Example projects': 'projects',
-                            'Tags': 'tags',
-                            'Mentors': 'mentors',
-                            'Resources': 'resources',
-                            'Badge': 'badge',
-                            'Level': 'level'
-                            })
+    df = df.rename(index={'Title': 'title',
+                          'Teaser text': 'excerpt',
+                          'Description': 'description',
+                          'Example projects': 'projects',
+                          'Tags': 'tags',
+                          'Mentors': 'mentors',
+                          'Resources': 'resources',
+                          'Badge': 'badge',
+                          'Level': 'level'
+                          })
     return df
 
 
@@ -50,7 +60,7 @@ def csv2dict(df):
     """
     Convert the dataframe created by pandas to a dict
     """
-    csvdict = df.to_dict(orient='records')[0]
+    csvdict = df.to_dict()
 
     try:
         tags = csvdict['tags'].split(',')
