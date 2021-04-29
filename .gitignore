@@ -9,6 +9,10 @@ _posts
 .vscode
 *.code-workspace
 
+
+.ipynb_checkpoints
+
+
 EoDD_schedule*
 test.md
 README_resolutions.txt
