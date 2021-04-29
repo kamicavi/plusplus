@@ -2,6 +2,10 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
+
+    <h3>Level</h3>
+    {{ page.level }}
+
     <h3>Mentors</h3>
     {%- for m in page.mentors %}
       {{- m -}}<br>
@@ -9,7 +13,7 @@
 
     <h3>Badge</h3>
     {{ page.badge }}
-    
+
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
