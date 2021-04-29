@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 layout: single
 classes: wide
+header:
+ image: /assets/images/splash-1660x400.jpg
 ---
 
 Pre-Covid, [our Prewired coding club](https://www.prewired.org) operated on a face-to-face basis with close interaction between young people and volunteers within a safe space. Thanks to funding from the [Creative Informatics Resident Entrepreneur programme](https://creativeinformatics.org/news/our-round-4-resident-entrepreneurs-have-arrived/), we have been able to embark on the challenge of recreating that experience in an online environment. We call this new initiative <b>Prewired++</b>.

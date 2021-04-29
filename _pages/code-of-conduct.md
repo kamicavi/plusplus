@@ -3,6 +3,8 @@ title: "Prewired++ Code of Conduct"
 permalink: /code-of-conduct/
 layout: single
 classes: wide
+header:
+ image: /assets/images/splash-1660x400.jpg
 ---
 ## Our Pledge
 

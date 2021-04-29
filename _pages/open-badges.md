@@ -3,6 +3,8 @@ title: "Open Badges"
 permalink: /open-badges/
 layout: single
 classes: wide
+header:
+ image: /assets/images/splash-1660x400.jpg
 ---
 
 

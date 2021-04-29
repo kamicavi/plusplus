@@ -3,6 +3,8 @@ title: "How it Works"
 permalink: /how-it-works/
 layout: single
 classes: wide
+header:
+ image: /assets/images/splash-1660x400.jpg
 ---
 
 ## Overview
