@@ -17,12 +17,15 @@ parser = argparse.ArgumentParser()
 challenge_path = '../_challenges'
 
 
-def input_csv(infile):
+def input_csv(infile, transpose=True):
     """
     Open a CSV file for reading
     """
     with open(infile, newline='') as csvfile:
         df = pd.read_csv(csvfile)
+    if transpose:
+        df.set_index('Attribute', inplace=True)
+        df = df.transpose()
     return df
 
 

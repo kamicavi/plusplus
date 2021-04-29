@@ -1,0 +1,9 @@
+Title,Make a Blog
+Teaser text,Build your very own blog online
+Description,Create an online blog about a topic of your choice. It should display various blog posts and have multiple pages. Make sure you include an archive so that visitors can look through all of your posts!
+Example projects,
+Tags,"web development, django, blog"
+Mentors,Helen
+Resources,https://tutorial.djangogirls.org/en/
+Badge,Django and/or Basic & Intermediate Web Dev
+Level,Intermediate/Advanced

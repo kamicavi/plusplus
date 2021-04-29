@@ -1,0 +1,16 @@
+Title,Weather Forecasting
+Teaser text,Create a tool that lets you check the weather — without going outside!
+Description,Create a tool that will tell you about the weather using a weather API (or your own Arduino weather station)
+Example projects,"Get access to a weather API to display information. Here’s an example: https://www.taps-aff.co.uk/
+
+You could also make your own weather station to gather data about the weather."
+Tags,"web development, weather, API, html, css, back end, front end"
+Mentors,"Helen, Ben, Charlotte"
+Resources,"List of free weather APIs: https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/ 
+And another weather API: https://www.weatherapi.com/ 
+
+Arduino weather station: https://the-weather-station.com/how-to-make-a-simple-weather-station/ 
+Raspberry Pi weather station:
+https://projects.raspberrypi.org/en/projects/build-your-own-weather-station"
+Badge,Using an External API
+Level,Intermediate

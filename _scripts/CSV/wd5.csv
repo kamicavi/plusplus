@@ -1,0 +1,16 @@
+Title,Make a voting website
+Teaser text,"Make a website where people can vote on things. Sounds simple, right? Now make sure they can’t vote twice."
+Description,"Making a polling website is not that difficult. But what makes a good poll?
+People can’t vote twice
+
+People can’t see who voted what
+
+Even the website builder can’t see who voted what
+
+You can trust the vote to be fair."
+Example projects,https://www.strawpoll.me/
+Tags,"backend, frontend, authentication, security, voting"
+Mentors,"Helen, Ben"
+Resources,
+Badge,"Accessibility, Documentation, Testing, Intermediate Django"
+Level,Advanced

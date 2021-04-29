@@ -1,0 +1,11 @@
+,Make an informative website
+Title,Web 2.0
+Teaser text,Add interaction to your website with JavaScript
+Description,JavaScript makes it possible to run code in response to events on your web page. Use JavaScript to make it possible for visitors to your website to interact with it in some way.
+Example projects,"Build a simple game on your website, such as hangman or noughts and crosses."
+Tags,"web development, javascript"
+Mentors,"Helen, Ben, Charlotte"
+Resources,"Ideas for JavaScript projects: https://devdevshow.com/javascript-projects-for-beginners-with-source-code/ 
+Working with data and APIs in JavaScript: https://thecodingtrain.com/Courses/data-and-apis/"
+Badge,Interactive web pages
+Level,Intermediate

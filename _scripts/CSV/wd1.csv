@@ -1,0 +1,13 @@
+Title,Make an informative website
+Teaser text,Create your very own website to convey information about a topic.
+Description,"Make a website (at least two different pages, with navigation) that teaches the visitor something informatics or fun. You should start with the basics, namely HTML for the structure and CSS for styling. 
+
+You can go basic, with just text and static images. Or you can go all-out by using HTML to embed video, audio, or maps."
+Example projects,"A fact site about Climate Change
+Information about your favourite music / sport / holiday destination"
+Tags,"web development, html, css"
+Mentors,"Helen, Ben, Charlotte"
+Resources,"Structuring the web with HTML: https://developer.mozilla.org/en-US/docs/Learn/HTML
+Styling web pages with CSS: https://developer.mozilla.org/en-US/docs/Learn/CSS"
+Badge,Basic Web Dev
+Level,Basic
