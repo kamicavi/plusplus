@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// P++ splash colours
+// green - #81ccb5 
+// pink - #db408c
+// blue - #222b68
+// orange - #f16a37
+// cream - #fef7da 
+
+
+$link-color: #222b68;
+$footer-background-color: #222b68;
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
