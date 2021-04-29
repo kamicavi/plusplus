@@ -1,6 +1,8 @@
 ---
 {{ content.yaml -}}
 sidebar: true
+header:
+  teaser: /assets/images/tbd.png
 ---
 {{ content.description | urlize() }}
 

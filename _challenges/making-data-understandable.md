@@ -12,6 +12,8 @@ tags:
 - statistics
 title: Making data understandable
 sidebar: true
+header:
+  teaser: /assets/images/basic.png
 ---
 Data comes in lots of forms and is used for lots of purposes. A very common form of data is the table, consisting of information organised into rows and columns, and tabular data is often available for download as CSV, for example from Kaggle. (CSV stands for comma separated values and it is a widely used and open data form.) In this challenge, you should write code to download and import a large dataset. Once you have imported it, see if you can see any interesting patterns in the data. Can you display this information in a graphical way that makes it easier to understand it? You could use a standard data visualisation approach such as a bar chart or a scatter graph, or perhaps you can find a more interesting approach. Try sketching some ideas on paper before deciding how to code it up.
 

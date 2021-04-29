@@ -10,6 +10,8 @@ tags:
 - web dev
 title: Interactive data interface
 sidebar: true
+header:
+  teaser: /assets/images/advanced.png
 ---
 Rather than just displaying data, make it possible for the user to interact with it. This could involve search, using a control to alter the view, filtering by some feature, or even adding new data.
 

@@ -6,6 +6,8 @@ import yaml
 import pandas as pd
 import argparse
 import os
+import numpy as np
+
 
 from jinja2 import Environment, FileSystemLoader
 
@@ -36,6 +38,7 @@ def input_csv(infile):
     with open(infile, newline='') as csvfile:
         df = pd.read_csv(csvfile, header=None, index_col=0)
     df = df.squeeze()
+    df.fillna('', inplace=True)
     return df
 
 
