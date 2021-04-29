@@ -1,0 +1,11 @@
+Title,Build a 3D game
+Teaser text,Let’s add a third dimension
+Description,"Create a game in 3D in Unity! Think about the object of the game — will there be a scoring system? How do you “win”? Your 3D world can be as simple or as detailed as you wish.
+
+You could aim to include elements such as an objective and at least two of these elements: character, dialogue, collectable item, environment"
+Example projects,"An Augmented Reality game, for example Pokemon GO."
+Tags,"3D, games development, games design, unity"
+Mentors,Ben
+Resources,https://learn.unity.com/course/beginning-3d-game-development
+Badge,Advanced Games Dev
+Level,Advanced

@@ -1,0 +1,12 @@
+Title,Make Sound with Pure Data
+Teaser text,Music from numbers!
+Description,"Create a basic changeable synth in Pure Data, by using the osc~ object to generate a sine wave, and a number object input that you can control to affect the pitch."
+Example projects,AM and FM synths: https://www.youtube.com/watch?v=hkBCYffNMX4
+Tags,"audio, sound, visual/graphical programming language, Pure Data, interactive audio, acoustics"
+Mentors,Luci
+Resources,"https://puredata.info/downloads/pure-data |
+https://www.youtube.com/watch?v=tJ6ts6twKMw | 
+https://www.youtube.com/watch?v=rtgGol-I4gA |
+https://www.youtube.com/watch?v=_kdrezw2S6I | https://www.youtube.com/watch?v=FkmMzqohsDo |"
+Badge,Basic Interactive Audio
+Level,Basic

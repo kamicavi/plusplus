@@ -1,0 +1,19 @@
+Title,Answer a question
+Teaser text,Make your own textual “OK Google”
+Description,"How do we get a computer to answer questions? We are used to getting answers from Google, but we can also make our question answering system. There are three important steps to this. First, recognise what question is being asked. Two, try to look up some relevant information somewhere. Third, formulate the information as a suitable answer.
+You can restrict this challenge so that you only try to answer questions on a restricted topic.
+Finding relevant information is going to be hard. You can return a ‘snippet’ extracted from a search page result, or else try to find a more specific answer based on structured data such as wikidata."
+Example projects,
+Tags,"question answering, text processing, search"
+Mentors,Jelmer
+Resources,"Google Search API
+
+DBPedia
+
+Google Knowledge Graph
+
+https://duckduckgo.com/api 
+
+Wikidata"
+Badge,Advanced Text Processing
+Level,Advanced

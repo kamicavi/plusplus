@@ -1,0 +1,13 @@
+Title,Make a text-based game
+Teaser text,You are in a maze of twisty little passages...
+Description,Make a game that just has text on screen to explain your surroundings. The player should have multiple choices to progress to the next stage. Make sure there is a “start” and an “end” and try to incorporate multiple different endings.
+Example projects,"https://play.aidungeon.io/main/landing 
+http://adarkroom.doublespeakgames.com/"
+Tags,"storytelling, games development, interactive fiction"
+Mentors,Charlotte
+Resources,"Create text based games without using code: 
+https://twinery.org/ 
+https://www.inklestudios.com/inklewriter/ 
+Other tools for interactive fiction: https://itsfoss.com/create-interactive-fiction/"
+Badge,Basic Games Dev
+Level,Basic

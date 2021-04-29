@@ -1,0 +1,17 @@
+Title,Discord Chatbot
+Teaser text,Build a Discord bot that chats with people.
+Description,"Build a simple chatbot that takes text input and produces some kind of related response. Set it up as a Discord bot and test it with real users. Try to make it interesting or useful so that people keep on using it.
+
+If you decide to code your chatbot in Python, see if you can incorporate the approach developed in the NLTK chat package. This uses simple regular expressions so that the bot’s response incorporates some words from the user’s message."
+Example projects,
+Tags,"chat, regular expressions, text processing"
+Mentors,Jelmer
+Resources,"Create a Discord bot with JavaScript: https://thecodingtrain.com/learning/bots/discord/ 
+Create a Discord bot with Python: https://www.freecodecamp.org/news/create-a-discord-bot-with-python/ 
+NLTK chat package: https://www.nltk.org/api/nltk.chat.html
+Informative chatbots in Python using machine learning: https://github.com/IBM/taxinomitis-docs/blob/master/project-worksheets/pdf/worksheet-chatbots-python.pdf
+
+Discord developer documentation: https://discord.com/developers/docs/intro 
+Discord client libraries: https://discordapi.com/unofficial/libs.html"
+Badge,Basic Text Processing
+Level,Basic

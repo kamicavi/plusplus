@@ -1,0 +1,10 @@
+Title,The Pure Data Sound Emporium
+Teaser text,Make a generative audio piece!
+Description,"Create an audio artwork and record it by building a generative, self-operating patch in Pure Data"
+Example projects,Pd for Airports (Creating Ambient Music in Pure Data) | Simon Hutchinson: https://www.youtube.com/watch?v=7sTrn39TT7k
+Tags,"audio, sound, visual/graphical programming language, Pure Data, interactive audio, acoustics"
+Mentors,Luci
+Resources,"https://puredata.info/downloads/pure-data | 
+https://www.youtube.com/watch?v=oXE7BvUd8W0 |"
+Badge,Advanced Interactive Audio
+Level,Advanced

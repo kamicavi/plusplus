@@ -1,0 +1,14 @@
+Title,Build a 2D Platformer
+Teaser text,Bounce
+Description,"Create a 2D platform game using Unity. Figure out what 
+sort of moves you want your character to have — for example: jump, double jump, wall jump, dash.
+
+You could aim to include elements such as an objective and at least two of these elements: character, dialogue, collectable item, environment"
+Example projects,
+Tags,"games dev, art, 2D, unity"
+Mentors,Ben
+Resources,"How to make a 2D game in Unity: https://www.youtube.com/watch?v=on9nwbZngyw 
+Platform game in Unity: https://learn.unity.com/project/2d-platformer-template 
+Make your first 2D game: https://www.youtube.com/playlist?list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97"
+Badge,Intermediate Games Dev
+Level,Intermediate

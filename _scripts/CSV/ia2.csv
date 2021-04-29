@@ -1,0 +1,9 @@
+Title,Sample Music with Pure Data
+Teaser text,Making beats with computers!
+Description,"Create a looping and remixing music sampler by importing music and sound files using arrays and soundfilers, OR create a sequenced music patch in Pure Data"
+Example projects,Pure Data Music Sequencer https://www.youtube.com/watch?v=VgCXpIlOgHI
+Tags,"audio, music, sound, visual/graphical programming language, Pure Data, interactive audio, acoustics"
+Mentors,Luci
+Resources,https://puredata.info/downloads/pure-data | https://www.youtube.com/watch?v=YCChpCaza5k |
+Badge,Intermediate Interactive Audio
+Level,Intermediate

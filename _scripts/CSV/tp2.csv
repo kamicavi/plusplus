@@ -1,0 +1,11 @@
+Title,Make me happy
+Teaser text,Write something to make the AI happy!
+Description,Use Scratch to make an AI which recognises if you’re being nice or nasty. Then make a picture of a person smile or frown in response. Teach a computer to recognise compliments and insults
+Example projects,
+Tags,"sentiment analysis, machine learning"
+Mentors,Rosalyn
+Resources,"Worksheet for Scratch https://github.com/IBM/taxinomitis-docs/blob/master/project-worksheets/pdf/worksheet-makemehappy.pdf
+
+You can also do this project in Python: https://github.com/IBM/taxinomitis-docs/blob/master/project-worksheets/pdf/worksheet-makemehappy-python.pdf"
+Badge,Basic Text Processing
+Level,Basic
