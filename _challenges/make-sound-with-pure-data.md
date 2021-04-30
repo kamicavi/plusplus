@@ -16,7 +16,8 @@ sidebar: true
 header:
   teaser: /assets/images/basic.png
 ---
-Create a basic changeable synth in Pure Data, by using the osc~ object to generate a sine wave, and a number object input that you can control to affect the pitch.
+Create a basic changeable synth in Pure Data, by using the `osc~` object to generate a sine wave, 
+and a number object input that you can control to affect the pitch.
 
 ## Example projects
 AM and FM synths: <a href="https://www.youtube.com/watch?v=hkBCYffNMX4" rel="noopener">https://www.youtube.com/watch?v=hkBCYffNMX4</a>

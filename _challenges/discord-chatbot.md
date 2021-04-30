@@ -3,7 +3,7 @@ badge: Basic Text Processing
 excerpt: Build a Discord bot that chats with people.
 level: Basic
 mentors:
-- TBD
+- Ewan
 tags:
 - chat
 - regular expressions
