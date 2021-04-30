@@ -1,5 +1,6 @@
 ---
 badge: Advanced Games Dev
+theme: gamesdev
 excerpt: "Let\u2019s add a third dimension"
 level: Advanced
 mentors:

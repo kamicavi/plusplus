@@ -1,5 +1,6 @@
 ---
 badge: Advanced Text Processing
+theme: textproc
 excerpt: "Make your own textual \u201COK Google\u201D"
 level: Advanced
 mentors:

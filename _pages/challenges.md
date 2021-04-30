@@ -6,6 +6,7 @@ collection: challenges
 entries_layout: grid
 classes: wide
 sidebar: false
+sort_by: theme
 header:
  image: /assets/images/splash-1660x400.jpg
 ---

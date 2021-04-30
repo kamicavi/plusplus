@@ -1,5 +1,6 @@
 ---
 badge: Basic Text Processing
+theme: textproc
 excerpt: Write something to make the AI happy!
 level: Basic
 mentors:

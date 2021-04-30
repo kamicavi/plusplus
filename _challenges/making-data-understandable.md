@@ -1,5 +1,6 @@
 ---
 badge: Investigating a Dataset
+theme: dataproc
 excerpt: Import a dataset and represent it visually in an interesting way
 level: Basic
 mentors:

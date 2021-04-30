@@ -1,5 +1,6 @@
 ---
 badge: Interactive web pages
+theme: webdev
 excerpt: Add interaction to your website with JavaScript
 level: Intermediate
 mentors:

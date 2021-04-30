@@ -1,6 +1,7 @@
 ---
 title: "Em"
 excerpt: "I'm Em..."
+published: false
 header:
   teaser: /assets/images/bio-photo.jpg
 sidebar:

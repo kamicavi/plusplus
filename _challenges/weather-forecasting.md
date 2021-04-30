@@ -1,5 +1,6 @@
 ---
 badge: Using an External API
+theme: webdev
 excerpt: "Create a tool that lets you check the weather \u2014 without going outside!"
 level: Intermediate
 mentors:

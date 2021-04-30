@@ -1,6 +1,7 @@
 ---
 badge: Accessibility, Documentation, Testing, Intermediate Django
-excerpt: "Make a website where people can vote on things. Sounds simple, right? Now make sure they can't vote twice."
+theme: webdev
+excerpt: "Make a website where people can vote on things."
 level: Advanced
 mentors:
 - Helen

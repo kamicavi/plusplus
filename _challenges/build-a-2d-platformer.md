@@ -1,5 +1,6 @@
 ---
 badge: Intermediate Games Dev
+theme: gamesdev
 excerpt: Bounce
 level: Intermediate
 mentors:

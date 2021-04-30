@@ -1,5 +1,6 @@
 ---
 badge: Basic Games Dev
+theme: gamesdev
 excerpt: You are in a maze of twisty little passages...
 level: Basic
 mentors:

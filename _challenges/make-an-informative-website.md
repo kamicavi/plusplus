@@ -1,5 +1,6 @@
 ---
 badge: Basic Web Dev
+theme: webdev
 excerpt: Create your very own website to convey information about a topic.
 level: Basic
 mentors:
