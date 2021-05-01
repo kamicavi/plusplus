@@ -1,6 +1,7 @@
 ---
 badge: Basic Interactive Audio
 theme: audio
+nunber: 1
 excerpt: Music from numbers!
 level: Basic
 mentors:

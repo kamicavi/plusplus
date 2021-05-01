@@ -1,6 +1,7 @@
 ---
 badge: Basic Games Dev
 theme: gamesdev
+number: 1
 excerpt: You are in a maze of twisty little passages...
 level: Basic
 mentors:

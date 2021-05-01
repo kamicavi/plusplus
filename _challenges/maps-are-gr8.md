@@ -1,6 +1,7 @@
 ---
 badge: Geospatial analysis
 theme: dataproc
+number: 2
 excerpt: Visualise data that has geospatial coordinates by plotting it on a digital
   map
 level: Intermediate

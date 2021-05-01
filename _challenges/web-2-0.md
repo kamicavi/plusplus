@@ -1,6 +1,7 @@
 ---
 badge: Interactive web pages
 theme: webdev
+number: 3
 excerpt: Add interaction to your website with JavaScript
 level: Intermediate
 mentors:

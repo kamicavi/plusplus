@@ -1,7 +1,8 @@
 ---
 badge: Advanced Text Processing
 theme: textproc
-excerpt: "Make your own textual \u201COK Google\u201D"
+number: 3
+excerpt: "Make your own textual 'Google'"
 level: Advanced
 mentors:
 - Jelmer

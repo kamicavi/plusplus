@@ -1,6 +1,7 @@
 ---
 badge: Intermediate Interactive Audio
 theme: audio
+number: 2
 excerpt: Making beats with computers!
 level: Intermediate
 mentors:

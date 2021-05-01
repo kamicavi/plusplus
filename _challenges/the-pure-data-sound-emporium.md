@@ -1,6 +1,7 @@
 ---
 badge: Advanced Interactive Audio
 theme: audio
+number: 3
 excerpt: Make a generative audio piece!
 level: Advanced
 mentors:

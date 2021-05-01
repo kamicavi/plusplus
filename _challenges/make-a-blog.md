@@ -1,6 +1,7 @@
 ---
 badge: Intermediate Web Dev
 theme: webdev
+number: 3
 excerpt: Build your very own blog online
 level: Intermediate/Advanced
 mentors:

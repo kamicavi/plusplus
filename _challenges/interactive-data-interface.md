@@ -1,6 +1,7 @@
 ---
 badge: Interactive data visualisation
 theme: dataproc
+number: 3
 excerpt: Create a website/app that allows the user to interact with a dataset
 level: Advanced
 mentors:

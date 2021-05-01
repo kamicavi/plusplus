@@ -1,6 +1,7 @@
 ---
 badge: Basic Web Dev
 theme: webdev
+number: 1
 excerpt: Create your very own website to convey information about a topic.
 level: Basic
 mentors:
@@ -11,7 +12,7 @@ tags:
 - web development
 - html
 - css
-title: Make an informative website
+title: Informative website
 sidebar: true
 header:
   teaser: /assets/images/basic.png

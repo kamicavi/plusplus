@@ -1,6 +1,7 @@
 ---
 badge: Basic Text Processing
 theme: textproc
+number: 2
 excerpt: Build a Discord bot that chats with people.
 level: Basic
 mentors:
