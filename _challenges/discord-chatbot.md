@@ -2,7 +2,7 @@
 badge: Basic Text Processing
 theme: textproc
 number: 2
-excerpt: Build a Discord bot that chats with people.
+excerpt: Build a bot that chats with people on Discord.
 level: Basic
 mentors:
 - Ewan

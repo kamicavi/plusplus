@@ -18,8 +18,9 @@ header:
 Rather than just displaying data, make it possible for the user to interact with it. This could involve search, using a control to alter the view, filtering by some feature, or even adding new data.
 
 ## Example projects
-A map showing animal migrations which can be updated according to the time of year. 
-A web page that takes in a postcode and displays the location of restaurants within a certain distance of that postcode.
+* A map showing animal migrations which can be updated according to the time of year. 
+* A web page that takes in a postcode and displays the location of restaurants within a certain distance of that postcode.
+
 See the COVID-19 data dashboard for some more ideas.
  
 

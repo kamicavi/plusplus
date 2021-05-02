@@ -21,9 +21,9 @@ A surprisingly large amount of data is geospatial. This means that it involves i
 Doing this challenge involves exploring one or more geospatial datasets and seeing whether you can represent it on a map in an interesting way.
 
 ## Example projects
-Which areas of Scotland were most strongly in favour of Independence in the last referendum?
-How many fast food outlets can you reach in a 15 minute walk?
-Which places in Scotland produced the most household waste per head of population?
+* Which areas of Scotland were most strongly in favour of Independence in the last referendum?
+* How many fast food outlets can you reach in a 15 minute walk?
+* Which places in Scotland produced the most household waste per head of population?
  
 
 ## Resources
