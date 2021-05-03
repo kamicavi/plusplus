@@ -27,3 +27,9 @@ $primary-color: #db408c;
         }
     }
 }
+
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 1; 
+    }
+}
