@@ -1,6 +1,6 @@
 ---
 title: "Em"
-excerpt: "I'm Em..."
+excerpt: "I'm Em, a software developer who likes the arts."
 header:
   teaser: /assets/images/em_th.jpg
 sidebar:
