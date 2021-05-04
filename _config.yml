@@ -48,6 +48,9 @@ social:
     # - "https://instagram.com/yourProfile"
     # - "https://www.linkedin.com/in/yourprofile"
 
+analytics:
+  provider: "custom"
+
 # Build settings
 markdown: kramdown
 kramdown:
