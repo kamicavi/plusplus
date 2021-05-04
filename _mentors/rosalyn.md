@@ -16,6 +16,6 @@ In my spare time I dance with the Edinburgh Bhangra Crew and love reading and go
 
 * data analysis
 * Python
-* github
+* GitHub
 * computer simulation
 * machine learning

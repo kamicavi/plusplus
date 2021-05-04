@@ -11,10 +11,13 @@
 // orange - #f16a37
 // cream - #fef7da 
 
+$cream: #fef7da;
+$darkblue: #222b68;
+$pink: #db408c;
 
-$link-color: #222b68;
-$footer-background-color: #222b68;
-$primary-color: #db408c;
+$link-color: $darkblue;
+$footer-background-color: $darkblue;
+$primary-color: $pink;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -33,3 +36,23 @@ $primary-color: #db408c;
     opacity: 1; 
     }
 }
+
+.page__hero { 
+	&--overlay {
+        a {
+            color: $cream;
+        }
+        .page__title,
+        .page__meta,
+        .page__lead,
+        .btn {
+            color: $cream;
+        }
+    }
+}
+
+.archive__item-excerpt {
+        font-size: 1.15em;
+}
+
+ 
