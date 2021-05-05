@@ -34,5 +34,12 @@ See <a href="https://pythonbasics.org/read-csv-with-pandas/" rel="noopener">http
 Exploratory data analysis in Python: <a href="https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb" rel="noopener">https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb</a>
 
 Data visualisation is not Python’s strongest point, although seaborn (<a href="https://seaborn.pydata.org/" rel="noopener">https://seaborn.pydata.org/</a>) is worth looking at.
-By contrast, JavaScript makes it easy to show graphics in the browser. Have a look at the Chart.js library (<a href="https://www.chartjs.org/" rel="noopener">https://www.chartjs.org/</a>) and these intro videos on Coding Train: <a href="https://thecodingtrain.com/Courses/data-and-apis/" rel="noopener">https://thecodingtrain.com/Courses/data-and-apis/</a>
+By contrast, JavaScript makes it easy to show graphics in the browser. For starting points, have a look at these libraries:
+
+* Chart.js  <a href="https://www.chartjs.org/" rel="noopener">https://www.chartjs.org/</a>
+* RAWGraph  <a href="https://rawgraphs.io/learning" rel="noopener">https://rawgraphs.io/learning</a>
+
+And these intro videos on Coding Train are helplful: <a href="https://thecodingtrain.com/Courses/data-and-apis/" rel="noopener">https://thecodingtrain.com/Courses/data-and-apis/</a>
+
+
 

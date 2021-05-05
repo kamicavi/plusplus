@@ -24,19 +24,21 @@ Each of the three Sprints will follow the same 2-week schedule. Here is a provis
 
 |        | Day       | Format           | Time          | Activity                                                |
 |--------|-----------|------------------|---------------|---------------------------------------------------------|
-| Week 1 | Monday    | Video meeting    | 17:00 - 19:30 | Introduction to Sprint, meet the mentors, team building |
-|        | Tuesday   | Video meeting    | 17:00 - 18:30 | Starting the projects                                   |
+| Week 1 | Monday    | Discord          | 17:00 - 19:30 | Introduction to Sprint, meet the mentors, team building |
+|        | Tuesday   | Discord          | 17:00 - 18:30 | Team building, Q&A                                      |
 |        | Wednesday | Online platforms |               | Working on projects                                     |
 |        | Thursday  | Online platforms |               | Working on projects                                     |
+|        | Thursday  | Online platforms | 17:00  18:00  | Workshop: Narrative in Games                            |
 |        | Friday    | Online platforms |               | Working on projects                                     |
 |        | Saturday  | Online platforms |               | Working on projects                                     |
 |        | Sunday    | Online platforms |               | Working on projects                                     |
 |        |           |                  |               |                                                         |
-| Week 2 | Monday    | Video meeting    | 17:00 - 18:00 | Drop-In Session, Q&A                                    |
+| Week 2 | Monday    | Discord          | 17:00 - 18:00 | Sprint 1 Halfway CatchUp                                |
 |        | Tuesday   | Online platforms |               | Working on projects                                     |
+|        | Tuesday   | Discord          | 17:00 - 18:00 | Tinderbox Lab 'open office'                             |
 |        | Wednesday | Online platforms |               | Working on projects                                     |
 |        | Thursday  | Online platforms |               | Working on projects                                     |
-|        | Friday    | Video meeting    | 14:00 - 17:00 | Presentation of projects                                |
+|        | Friday    | GatherTown (TBC) | 14:00 - 17:00 | Presentation of projects                                |
 
 
 
