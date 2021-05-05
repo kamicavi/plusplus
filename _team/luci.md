@@ -1,5 +1,6 @@
 ---
 title: "Luci"
+role: mentor
 excerpt: "I'm a games & media composer, self-taught game designer and Programme Manager at Tinderbox Lab..."
 header:
   teaser: /assets/images/luci_th.jpg

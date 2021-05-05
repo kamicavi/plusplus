@@ -1,5 +1,6 @@
 ---
 title: "Kirsten"
+role: mentor
 excerpt: "Hey I'm Kirsten and I am a software developer working in the games industry..."
 header:
   teaser: /assets/images/kirsten_th.jpg

@@ -1,5 +1,6 @@
 ---
 title: "Helen"
+role: mentor
 excerpt: "I work as a backend Software Developer at MADE.COM. I primarily work in Python to build the tools that get you your sofa..."
 header:  
   teaser: /assets/images/helen_th.jpg

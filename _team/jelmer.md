@@ -1,5 +1,6 @@
 ---
 title: "Jelmer"
+role: mentor
 excerpt: "Hi, I’m Jelmer. I like building stuff, whether that’s with lego or with code..."
 header:
   teaser: /assets/images/jelmer_th.jpg

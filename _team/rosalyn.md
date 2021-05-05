@@ -1,5 +1,6 @@
 ---
 title: "Rosalyn"
+role: mentor
 excerpt: "I am a final year PhD student in the Particle Physics Theory department at the University of Edinburgh..."
 header:
   teaser: /assets/images/rosalyn_th.jpg

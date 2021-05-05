@@ -1,5 +1,6 @@
 ---
 title: "Em"
+role: mentor
 excerpt: "I'm Em, a software developer who likes the arts."
 header:
   teaser: /assets/images/em_th.jpg

@@ -1,5 +1,6 @@
 ---
 title: "Charlotte"
+role: mentor
 excerpt: "I'm a designer at a small digital agency in Edinburgh, where I help to create websites..."
 header:  
   teaser: /assets/images/charlotte_th.jpg

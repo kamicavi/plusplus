@@ -1,5 +1,6 @@
 ---
 title: "Ben"
+role: mentor
 excerpt: "I'm Ben. I'm a CS undergrad and I've been a Prewired Mentor since 2017..."
 header:
   teaser: /assets/images/ben_th.jpg

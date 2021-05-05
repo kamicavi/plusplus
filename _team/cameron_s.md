@@ -1,5 +1,6 @@
 ---
 title: "Cameron S"
+role: mentor
 excerpt: "I'm Cameron, I am a Software Developer, Network Engineer, Photographer, ..."
 header:
   teaser: /assets/images/cameron_s_th.jpg

@@ -38,7 +38,7 @@ Each of the three Sprints will follow the same 2-week schedule. Here is a provis
 |        | Tuesday   | Discord          | 17:00 - 18:00 | Tinderbox Lab 'open office'                             |
 |        | Wednesday | Online platforms |               | Working on projects                                     |
 |        | Thursday  | Online platforms |               | Working on projects                                     |
-|        | Friday    | GatherTown (TBC) | 14:00 - 17:00 | Sprint Finale — project presentations                   |
+|        | Friday    | GatherTown (TBC) | 17:00 - 19:00 | Sprint Finale — project presentations                   |
 
 
 

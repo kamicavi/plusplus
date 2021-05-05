@@ -127,12 +127,15 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Prewired1/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 collections:
   challenges:
     output: true
     permalink: /:collection/:path/
-  mentors:
+  team:
     output: true
     permalink: /:collection/:path/
 
@@ -166,8 +169,8 @@ defaults:
       share: false
   # _mentors
   - scope:
-      path: "_mentors"
-      type: mentors
+      path: "_team"
+      type: team
     values:
       layout: single
       classes: wide
