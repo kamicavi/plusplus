@@ -6,6 +6,7 @@ excerpt: "Let's add a third dimension"
 level: Advanced
 mentors:
 - Ben
+- Kirsten
 tags:
 - 3D
 - games development

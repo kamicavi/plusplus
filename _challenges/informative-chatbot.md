@@ -7,6 +7,7 @@ level: Intermediate
 mentors:
 - Ewan
 - Jelmer
+- Cameron S
 tags:
 - chat
 - machine learning
@@ -30,8 +31,7 @@ You should think about how to share your chatbot online &mdash; how do people ge
 
 
 ## Resources
-A chatbot that learns from a text corpus: <a href="https://medium.com/@ritidass29/create-your-chatbot-using-python-nltk-88809fa621d1">https://medium.com/@ritidass29/create-your-chatbot-using-python-nltk-88809fa621d1</a>
-
-A chatbot that learns by chatting: <a href="https://github.com/gunthercox/ChatterBot">https://github.com/gunthercox/ChatterBot</a>
+* A chatbot that learns from a text corpus: <a href="https://medium.com/@ritidass29/create-your-chatbot-using-python-nltk-88809fa621d1">https://medium.com/@ritidass29/create-your-chatbot-using-python-nltk-88809fa621d1</a>
+* A chatbot that learns by chatting: <a href="https://github.com/gunthercox/ChatterBot">https://github.com/gunthercox/ChatterBot</a>
 
 

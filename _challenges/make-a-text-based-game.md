@@ -6,6 +6,7 @@ excerpt: You are in a maze of twisty little passages...
 level: Basic
 mentors:
 - Charlotte
+- Kirsten
 tags:
 - storytelling
 - games development

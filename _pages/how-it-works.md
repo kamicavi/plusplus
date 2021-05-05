@@ -33,12 +33,12 @@ Each of the three Sprints will follow the same 2-week schedule. Here is a provis
 |        | Saturday  | Online platforms |               | Working on projects                                     |
 |        | Sunday    | Online platforms |               | Working on projects                                     |
 |        |           |                  |               |                                                         |
-| Week 2 | Monday    | Discord          | 17:00 - 18:00 | Sprint 1 Halfway CatchUp                                |
+| Week 2 | Monday    | Discord          | 17:00 - 18:00 | Sprint Halfway CatchUp                                  |
 |        | Tuesday   | Online platforms |               | Working on projects                                     |
 |        | Tuesday   | Discord          | 17:00 - 18:00 | Tinderbox Lab 'open office'                             |
 |        | Wednesday | Online platforms |               | Working on projects                                     |
 |        | Thursday  | Online platforms |               | Working on projects                                     |
-|        | Friday    | GatherTown (TBC) | 14:00 - 17:00 | Presentation of projects                                |
+|        | Friday    | GatherTown (TBC) | 14:00 - 17:00 | Sprint Finale — project presentations                   |
 
 
 

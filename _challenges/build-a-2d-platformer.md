@@ -6,6 +6,7 @@ excerpt: Bounce
 level: Intermediate
 mentors:
 - Ben
+- Kirsten
 tags:
 - games dev
 - art
