@@ -1,3 +1,7 @@
+{% comment %}
+https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/
+{% endcomment %}
+
 {% assign rawtags = "" %}
 {% for challenge in site.challenges %}
   {% assign ttags = challenge.tags | join:'|' | append:'|' %}
