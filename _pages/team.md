@@ -12,7 +12,7 @@ header:
 
 
 <div class="feature__wrapper">
-    <h2 id="gamesdev">Mentors</h2>
+    <h2 id="mentors">Mentors</h2>
     {% assign mentors = site.team | where: 'role','mentor' | sort: 'title' %}
     <div class="entries-grid">
         {%- for post in mentors -%}
@@ -23,7 +23,7 @@ header:
 
 
 <div class="feature__wrapper">
-    <h2 id="gamesdev">Organisers</h2>
+    <h2 id="sg">Organisers</h2>
     {% assign sg = site.team | where: 'role','sg' | sort: 'title' %}
     <div class="entries-grid">
         {%- for post in sg -%}
