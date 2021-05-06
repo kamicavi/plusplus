@@ -11,7 +11,7 @@ title: Challenges by Tag
 
 <p>
 {%- for tag in tags -%}
-  <a href="#{{ tag | slugify }}"> {{ tag }} </a>, 
+  <a href="#{{ tag | slugify }}" class="page__taxonomy-item" rel="tag">{{ tag }}</a>
 {%- endfor -%}
 </p>
 
@@ -20,7 +20,7 @@ title: Challenges by Tag
 {% for tag in tags %}
 
 <div class="feature__wrapper">
-    <h1 id="{{ tag | slugify }}">{{ tag }}</h1>
+    <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
     <div class="entries-grid">
         {%- for post in site.challenges -%}
           {% if post.tags contains tag %}
@@ -31,4 +31,3 @@ title: Challenges by Tag
 </div>
 
 {% endfor %}
-
