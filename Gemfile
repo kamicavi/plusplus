@@ -1,21 +1,21 @@
 source "https://rubygems.org"
 
+gem "jekyll"
 gem "minimal-mistakes-jekyll"
-gem "jekyll", "~> 4.0.0"
+gem "webrick", "~> 1.7"
 
-gem "tzinfo-data"
+# The following plugins are automatically loaded by the theme-gem:
+#   gem "jekyll-paginate"
+#   gem "jekyll-sitemap"
+#   gem "jekyll-gist"
+#   gem "jekyll-feed"
+#   gem "jekyll-include-cache"
+#
+# If you have any other plugins, put them here!
 
-# If you have any plugins, put them here!
+
 group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
   gem "jemoji"
-  gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem "jekyll-archives"
-  gem "kramdown-parser-gfm"
 end
 
-gem "webrick", "~> 1.7"
