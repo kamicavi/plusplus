@@ -46,7 +46,7 @@ social:
     - "https://twitter.com/prewired"
     - "https://www.facebook.com/Prewired1"
     # - "https://instagram.com/yourProfile"
-    # - "https://www.linkedin.com/in/yourprofile"
+    - "https://www.linkedin.com/company/prewired/"
 
 analytics:
   provider: "custom"
@@ -90,13 +90,7 @@ exclude:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-  - jekyll-archives
 
 author:
   name   : "name"
@@ -114,7 +108,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/company/prewired/"
 
 footer:
   links:
@@ -183,21 +177,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-#Didn't get this working yet
-# category_archive:
-#   type: jekyll-archives
-#   path: /categories/
-# tag_archive:
-#   type: jekyll-archives
-#   path: /tags/
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
