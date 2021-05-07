@@ -10,8 +10,6 @@ mentors:
 - Charlotte
 tags:
 - web development
-- html
-- css
 title: Informative website
 sidebar: true
 header:

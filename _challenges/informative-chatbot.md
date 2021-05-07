@@ -2,7 +2,7 @@
 badge: Intermediate Text Processing
 theme: textproc
 number: 3
-excerpt: Tell me something useful!
+excerpt: A chatbot that learns.
 level: Intermediate
 mentors:
 - Ewan
@@ -12,6 +12,7 @@ tags:
 - chat
 - machine learning
 - text processing
+- question answering
 title: Informative Chatbot
 sidebar: true
 header:

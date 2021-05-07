@@ -8,11 +8,10 @@ mentors:
 - Helen
 - Ben
 tags:
+- web development
 - backend
-- frontend
 - authentication
 - security
-- voting
 title: Make a voting website
 sidebar: true
 header:

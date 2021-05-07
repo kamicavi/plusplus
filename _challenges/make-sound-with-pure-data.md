@@ -9,10 +9,8 @@ mentors:
 tags:
 - audio
 - sound
-- visual/graphical programming language
-- Pure Data
+- visual programming language
 - interactive audio
-- acoustics
 title: Make Sound with Pure Data
 sidebar: true
 header:

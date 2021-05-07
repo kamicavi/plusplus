@@ -11,6 +11,7 @@ mentors:
 tags:
 - data
 - data visualisation
+- art
 - statistics
 title: Making data understandable
 sidebar: true

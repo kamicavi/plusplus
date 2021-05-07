@@ -8,8 +8,8 @@ mentors:
 - Helen
 tags:
 - web development
-- django
-- blog
+- authentication
+- backend
 title: Make a Blog
 sidebar: true
 header:
