@@ -7,12 +7,12 @@ level: Advanced
 mentors:
 - Luci
 tags:
+- art
 - audio
 - sound
-- visual/graphical programming language
-- Pure Data
+- visual programming language
 - interactive audio
-- acoustics
+- pure data
 title: The Pure Data Sound Emporium
 sidebar: true
 header:

@@ -8,7 +8,7 @@ mentors:
 - Charlotte
 - Kirsten
 tags:
-- storytelling
+- chat
 - games development
 - interactive fiction
 title: Make a text-based game

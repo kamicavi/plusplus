@@ -7,9 +7,12 @@ level: Advanced
 mentors:
 - TBD
 tags:
-- interactive interface
 - data
-- web dev
+- web development
+- statistics
+- r
+- python
+- javascript
 title: Interactive data interface
 sidebar: true
 header:

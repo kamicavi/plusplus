@@ -11,6 +11,8 @@ mentors:
 tags:
 - web development
 - javascript
+- html
+- css
 title: Web 2.0
 sidebar: true
 header:

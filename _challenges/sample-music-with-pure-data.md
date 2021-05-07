@@ -7,13 +7,13 @@ level: Intermediate
 mentors:
 - Luci
 tags:
+- art
 - audio
 - music
 - sound
-- visual/graphical programming language
-- Pure Data
+- visual programming language
 - interactive audio
-- acoustics
+- pure data
 title: Sample Music with Pure Data
 sidebar: true
 header:

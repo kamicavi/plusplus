@@ -11,7 +11,11 @@ mentors:
 tags:
 - data
 - data visualisation
+- art
 - statistics
+- r
+- python
+- javascript
 title: Making data understandable
 sidebar: true
 header:

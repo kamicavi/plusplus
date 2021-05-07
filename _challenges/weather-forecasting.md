@@ -10,12 +10,13 @@ mentors:
 - Charlotte
 tags:
 - web development
-- weather
 - API
+- backend
+- python
+- javascript
+- php
 - html
 - css
-- back end
-- front end
 title: Weather Forecasting
 sidebar: true
 header:

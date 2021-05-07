@@ -9,8 +9,8 @@ mentors:
 - Kirsten
 tags:
 - 3D
+- art
 - games development
-- games design
 - unity
 title: Build a 3D game
 sidebar: true

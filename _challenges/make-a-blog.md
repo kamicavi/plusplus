@@ -8,8 +8,11 @@ mentors:
 - Helen
 tags:
 - web development
-- django
-- blog
+- authentication
+- backend
+- python
+- html
+- css
 title: Make a Blog
 sidebar: true
 header:
