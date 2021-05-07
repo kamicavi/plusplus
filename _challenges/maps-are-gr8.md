@@ -10,8 +10,11 @@ mentors:
 - Jelmer
 - Ben
 tags:
-- geospatial
 - mapping
+- data
+- data visualisation
+- python
+- javascript
 title: Maps are gr8
 sidebar: true
 header:

@@ -8,7 +8,7 @@ mentors:
 - Ben
 - Kirsten
 tags:
-- games dev
+- games development
 - art
 - 2D
 - unity

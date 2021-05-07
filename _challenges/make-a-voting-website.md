@@ -8,11 +8,14 @@ mentors:
 - Helen
 - Ben
 tags:
+- web development
 - backend
-- frontend
 - authentication
 - security
-- voting
+- html
+- css
+- python
+- php
 title: Make a voting website
 sidebar: true
 header:
