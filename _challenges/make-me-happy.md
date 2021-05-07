@@ -10,6 +10,7 @@ tags:
 - sentiment analysis
 - machine learning
 - visual programming language
+- scratch
 title: Make me happy
 sidebar: true
 header:

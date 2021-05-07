@@ -12,6 +12,7 @@ tags:
 - sound
 - visual programming language
 - interactive audio
+- pure data
 title: The Pure Data Sound Emporium
 sidebar: true
 header:

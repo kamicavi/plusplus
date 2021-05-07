@@ -13,6 +13,7 @@ tags:
 - sound
 - visual programming language
 - interactive audio
+- pure data
 title: Sample Music with Pure Data
 sidebar: true
 header:

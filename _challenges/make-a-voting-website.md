@@ -12,6 +12,10 @@ tags:
 - backend
 - authentication
 - security
+- html
+- css
+- python
+- php
 title: Make a voting website
 sidebar: true
 header:

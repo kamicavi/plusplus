@@ -10,6 +10,9 @@ tags:
 - data
 - web development
 - statistics
+- r
+- python
+- javascript
 title: Interactive data interface
 sidebar: true
 header:

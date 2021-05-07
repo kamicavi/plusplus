@@ -10,6 +10,9 @@ tags:
 - web development
 - authentication
 - backend
+- python
+- html
+- css
 title: Make a Blog
 sidebar: true
 header:

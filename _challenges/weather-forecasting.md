@@ -12,6 +12,11 @@ tags:
 - web development
 - API
 - backend
+- python
+- javascript
+- php
+- html
+- css
 title: Weather Forecasting
 sidebar: true
 header:

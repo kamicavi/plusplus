@@ -11,6 +11,7 @@ tags:
 - chat
 - regular expressions
 - text processing
+- python
 title: Discord Chatbot
 sidebar: true
 header:
