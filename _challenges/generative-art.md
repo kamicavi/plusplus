@@ -11,12 +11,15 @@ mentors:
 tags:
   - digital art
   - p5js
+  - generative art
+  - animation
+  - javascript
 title: Generative Art
 sidebar: true
 header:
   teaser: /assets/images/basic.png
 ---
-Generative art is art which is created by programming. It starts off with points, lines, curves and geometric shapes. It involves repetition and patterning. And randomness is incorporated to add the unexpected. 
+Generative art is art which is created by programming. Code goes in, Art comes out![^1] It starts off with points, lines, curves and geometric shapes. It involves repetition and patterning. And randomness is incorporated to add the unexpected. 
 
 This challenge gives you the opportunity to learn [p5.js](https://p5js.org) &mdash; a JavaScript library developed specifically for creative coding, with a focus on making coding accessible and inclusive for artists, designers and beginners.
 
@@ -34,9 +37,15 @@ If you don't want to do Schiffman's course, try the p5.js [Get Started](https://
 
 An alternative video course for p5.js is [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info). Although this course is free, you have to enrol for it. 
 
-And yet a further resource is this set of tutorials (click through to YouTube) by Zhang Weidi: [Computer Programming for Arts](https://www.zhangweidi.com/art22tutorials).
+And yet a further resource is this set of tutorials (click through to access her YouTube videos) by Zhang Weidi: [Computer Programming for Arts](https://www.zhangweidi.com/art22tutorials). Her video on [using a digital photo as the basis for generative art](https://youtu.be/me04ZrTJqWA) is particularly cool.
 
-Finally, thanks to Tyler Hobbs for the slogan: [Code goes in, Art comes out](https://www.youtube.com/embed/LBpqoj2nOQo).
+### Introductions to Generative Art
+
+* [A gentle introduction to coding by making generative art](https://theibbster.medium.com/a-gentle-introduction-to-coding-by-making-generative-art-c7f0a7b744a6)
+* [How to make your first generative art with P5.js](https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2)
+* [Generative Art — 3 Fundamental Concepts to Get You Started](https://levelup.gitconnected.com/generative-art-3-fundamental-concepts-to-get-you-started-44205dae167b)
+
+[^1]: Kudos to Tyler Hobbs for the great title of his YouTube talk: [Code goes in, Art comes out](https://www.youtube.com/embed/LBpqoj2nOQo).
 
 
 
