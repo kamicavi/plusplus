@@ -17,7 +17,7 @@ We have designed a big range of challenges for you, with a wide variety of appro
 
 <!-- * <a href="#gamesdev">Games development</a>
 * <a href="#webdev">Web development</a>
-* <a href="#audio">Interactive audio</a>
+* <a href="#audio">Creative coding: audio and images</a>
 * <a href="#textproc">Text processing</a>
 * <a href="#dataproc">Data processing</a> -->
 
@@ -46,7 +46,7 @@ You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filt
     </div>
 </div>
 <div class="feature__wrapper">
-    <h2 id="audio">Interactive Audio</h2>
+    <h2 id="audio">Creative coding: audio and images</h2>
     {% assign audio = site.challenges | where:'theme','audio' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in audio -%}
