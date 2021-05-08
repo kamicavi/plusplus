@@ -10,8 +10,6 @@ header:
 # toc_icon: "cat"
 # toc_sticky: true
 ---
-## Overview 
-
 We have designed a big range of challenges for you, with a wide variety of approaches. We have divided them into five broad themes:
 <a href="#gamesdev">Games development</a>, <a href="#webdev">Web development</a>, <a href="#audio">Interactive audio</a>, <a href="#textproc">Text processing</a> and <a href="#dataproc">Data processing</a>.
 
@@ -28,7 +26,7 @@ Don't worry if you choose a challenge that seems a bit too easy. We will have lo
 You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filtered by tag</a>.
 
 <div class="feature__wrapper">
-    <h2 id="gamesdev">Games Development</h2>
+    <h1 id="gamesdev">Games Development</h1>
     {% assign textproc = site.challenges | where: 'theme','gamesdev' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in textproc -%}
@@ -37,7 +35,7 @@ You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filt
     </div>
 </div>
 <div class="feature__wrapper">
-    <h2 id="webdev">Web Development</h2>
+    <h1 id="webdev">Web Development</h1>
     {% assign webdev = site.challenges | where:'theme','webdev' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in webdev -%}
@@ -46,7 +44,7 @@ You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filt
     </div>
 </div>
 <div class="feature__wrapper">
-    <h2 id="audio">Creative coding: audio and images</h2>
+    <h1 id="audio">Creative coding: audio and images</h1>
     {% assign audio = site.challenges | where:'theme','audio' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in audio -%}
@@ -55,7 +53,7 @@ You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filt
     </div>
 </div>
 <div class="feature__wrapper">
-    <h2 id="textproc">Text Processing</h2>
+    <h1 id="textproc">Text Processing</h1>
     {% assign textproc = site.challenges | where:'theme','textproc' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in textproc -%}
@@ -64,7 +62,7 @@ You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filt
     </div>
 </div>
 <div class="feature__wrapper">
-    <h2 id="dataproc">Data Processing</h2>
+    <h1 id="dataproc">Data Processing</h1>
     {% assign dataproc = site.challenges | where:'theme','dataproc' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in dataproc -%}
