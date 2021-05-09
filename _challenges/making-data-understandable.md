@@ -10,8 +10,8 @@ mentors:
 - Ben
 tags:
 - data
+- open data
 - data visualisation
-- art
 - statistics
 - r
 - python

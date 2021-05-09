@@ -16,9 +16,7 @@ sidebar: true
 header:
   teaser: /assets/images/basic.png
 ---
-Use Scratch to make an AI which recognises if you’re being nice or nasty. Then make a picture of a person smile or frown in response. Teach a computer to recognise compliments and insults
-
- 
+Use Scratch to make an AI which recognises if you’re being nice or nasty. Then make a picture of a person smile or frown in response. Teach a computer to recognise compliments and insults.
 
 ## Resources
 Worksheet for Scratch <a href="https://github.com/IBM/taxinomitis-docs/blob/master/project-worksheets/pdf/worksheet-makemehappy.pdf" rel="noopener">https://github.com/IBM/taxinomitis-docs/blob/master/project-worksheets/pdf/worksheet-makemehappy.pdf</a>

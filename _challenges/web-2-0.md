@@ -13,6 +13,7 @@ tags:
 - javascript
 - html
 - css
+- API
 title: Web 2.0
 sidebar: true
 header:
@@ -23,7 +24,6 @@ JavaScript makes it possible to run code in response to events on your web page.
 ## Example projects
 Build a simple game on your website, such as hangman or noughts and crosses.
  
-
 ## Resources
 Ideas for JavaScript projects: <a href="https://devdevshow.com/javascript-projects-for-beginners-with-source-code/" rel="noopener">https://devdevshow.com/javascript-projects-for-beginners-with-source-code/</a> 
 

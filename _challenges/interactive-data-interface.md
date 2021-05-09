@@ -13,6 +13,7 @@ tags:
 - r
 - python
 - javascript
+- jupyter 
 title: Interactive data interface
 sidebar: true
 header:

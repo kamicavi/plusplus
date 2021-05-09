@@ -15,6 +15,8 @@ tags:
 - data visualisation
 - python
 - javascript
+- spatial data
+- open data
 title: Maps are gr8
 sidebar: true
 header:

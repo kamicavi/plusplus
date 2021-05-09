@@ -11,6 +11,7 @@ tags:
 - chat
 - games development
 - interactive fiction
+- text processing
 title: Make a text-based game
 sidebar: true
 header:

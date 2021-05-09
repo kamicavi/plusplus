@@ -17,6 +17,9 @@ tags:
 - php
 - html
 - css
+- arduino 
+- microcontroller
+- open data 
 title: Weather Forecasting
 sidebar: true
 header:

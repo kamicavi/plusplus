@@ -13,6 +13,8 @@ tags:
 - python
 - html
 - css
+- blog 
+- django 
 title: Make a Blog
 sidebar: true
 header:

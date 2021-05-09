@@ -21,8 +21,6 @@ How do we get a computer to answer questions? We are used to getting answers fro
 You can restrict this challenge so that you only try to answer questions on a restricted topic.
 Finding relevant information is going to be hard. You can return a ‘snippet’ extracted from a search page result, or else try to find a more specific answer based on structured data such as wikidata.
 
- 
-
 ## Resources
 * Google Search API
 * DBPedia

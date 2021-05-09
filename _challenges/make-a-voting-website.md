@@ -22,13 +22,11 @@ header:
   teaser: /assets/images/advanced.png
 ---
 Making a polling website is not that difficult. But what makes a good poll?
-People can’t vote twice
 
-People can’t see who voted what
-
-Even the website builder can’t see who voted what
-
-You can trust the vote to be fair.
+* People can’t vote twice.
+* People can’t see who voted what.
+* Even the website builder can’t see who voted what.
+* You can trust the vote to be fair.
 
 ## Example projects
 <a href="https://www.strawpoll.me/" rel="noopener">https://www.strawpoll.me/</a>

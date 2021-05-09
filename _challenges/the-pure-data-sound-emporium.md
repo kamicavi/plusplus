@@ -7,7 +7,7 @@ level: Advanced
 mentors:
 - Luci
 tags:
-- art
+- generative art
 - audio
 - sound
 - visual programming language
@@ -18,7 +18,7 @@ sidebar: true
 header:
   teaser: /assets/images/advanced.png
 ---
-Create an audio artwork and record it by building a generative, self-operating patch in Pure Data
+Create an audio artwork and record it by building a generative, self-operating patch in Pure Data.
 
 ## Example projects
 Pd for Airports (Creating Ambient Music in Pure Data) | Simon Hutchinson: <a href="https://www.youtube.com/watch?v=7sTrn39TT7k" rel="noopener">https://www.youtube.com/watch?v=7sTrn39TT7k</a>
