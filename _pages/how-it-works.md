@@ -57,7 +57,7 @@ Each of the three Sprints will follow the same 2-week schedule. Here is a provis
 
 ## Challenges and Badges
 
-We have put together a set of [hallenges]({{ "/challenges/" | absolute_url }}) that will help you shape the projects you work on during the Sprints. The challenges should work for all levels of experience, and are divided into Basic, Intermediate and Advanced.
+Look through the varied set of [challenges]({{ "/challenges/" | absolute_url }}) that we have designed. These will help you shape the projects you work on during the Sprints and they should be suitable for all levels of experience, whether Basic, Intermediate or Advanced.
 
 In addition, we will be awarding [Open Badges]({{ "/open-badges/" | absolute_url }})  as a way of recognising what you achieve during your participation in the Emporium of Digital Delights.
 
