@@ -12,6 +12,8 @@ tags:
 - regular expressions
 - text processing
 - python
+- discord 
+- nltk
 title: Discord Chatbot
 sidebar: true
 header:

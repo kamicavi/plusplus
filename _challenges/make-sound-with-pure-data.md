@@ -25,8 +25,8 @@ AM and FM synths: <a href="https://www.youtube.com/watch?v=hkBCYffNMX4" rel="noo
  
 
 ## Resources
-* <a href="https://puredata.info/downloads/pure-data" rel="noopener">https://puredata.info/downloads/pure-data</a> 
-* <a href="https://www.youtube.com/watch?v=tJ6ts6twKMw" rel="noopener">https://www.youtube.com/watch?v=tJ6ts6twKMw</a> 
+* <a href="https://puredata.info/downloads/pure-data" rel="noopener">Download Pure Data</a> 
+* <a href="https://www.youtube.com/watch?v=tJ6ts6twKMw" rel="noopener">Introduction to Pure Data</a> [2hr Youtube video workshop]
 * <a href="https://www.youtube.com/watch?v=rtgGol-I4gA" rel="noopener">https://www.youtube.com/watch?v=rtgGol-I4gA</a> 
 * <a href="https://www.youtube.com/watch?v=_kdrezw2S6I" rel="noopener">https://www.youtube.com/watch?v=_kdrezw2S6I</a> 
 * <a href="https://www.youtube.com/watch?v=FkmMzqohsDo" rel="noopener">https://www.youtube.com/watch?v=FkmMzqohsDo</a> 

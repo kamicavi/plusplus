@@ -13,12 +13,6 @@ header:
 We have designed a big range of challenges for you, with a wide variety of approaches. We have divided them into five broad themes:
 <a href="#gamesdev">Games development</a>, <a href="#webdev">Web development</a>, <a href="#audio">Interactive audio</a>, <a href="#textproc">Text processing</a> and <a href="#dataproc">Data processing</a>.
 
-<!-- * <a href="#gamesdev">Games development</a>
-* <a href="#webdev">Web development</a>
-* <a href="#audio">Creative coding: audio and images</a>
-* <a href="#textproc">Text processing</a>
-* <a href="#dataproc">Data processing</a> -->
-
 Within each theme, the challenges are sorted by level of difficulty: **basic**, **intermediate** and **advanced**. The ones at the basic level don't require that you already know anything about that particular theme and are deliberately gentle in terms of the programming involved. 
 
 Don't worry if you choose a challenge that seems a bit too easy. We will have lots of suggestions for making it harder! Also, the basic challenges will help prepare you for an intermediate one.

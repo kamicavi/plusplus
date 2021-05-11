@@ -22,10 +22,9 @@ Make a website (at least two different pages, with navigation) that teaches the 
 You can go basic, with just text and static images. Or you can go all-out by using HTML to embed video, audio, or maps.
 
 ## Example projects
-A fact site about Climate Change
-Information about your favourite music / sport / holiday destination
+* A fact site about Climate Change
+* Information about your favourite music / sport / holiday destination.
  
-
 ## Resources
 Structuring the web with HTML: <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" rel="noopener">https://developer.mozilla.org/en-US/docs/Learn/HTML</a>
 Styling web pages with CSS: <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" rel="noopener">https://developer.mozilla.org/en-US/docs/Learn/CSS</a>
