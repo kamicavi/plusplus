@@ -3,8 +3,7 @@ title: "Freda"
 role: sg
 excerpt: "Hi, I'm Freda..."
 header:
-  teaser: /assets/images/bio-photo.jpg
+  teaser: /assets/images/freda_th.jpg
 sidebar:
-  - image: /assets/images/bio-photo.jpg
-
+  - image: /assets/images/freda.jpg
 ---
