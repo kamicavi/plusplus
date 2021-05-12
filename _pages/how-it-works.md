@@ -10,17 +10,6 @@ toc_label: "Contents"
 toc_icon: "cat"
 toc_sticky: true
 ---
-## Beginners start here
-
-If it all seems a bit confusing right now, we've listed four projects below that will help you get started with The Emporium of Digital Delights. These are particularly appropriate if you don't yet have a whole of experience with programming.
-
-* [Make a text-based game]({{ "/challenges/make-a-text-based-game/" | absolute_url}})
-* [Make an informative website]({{ "/challenges/make-an-informative-website/" | absolute_url}})
-* [Make me happy]({{ "/challenges/make-me-happy/" | absolute_url}})
-* [Make Sound with Pure Data]({{ "/challenges/make-sound-with-pure-data/" | absolute_url}})
-
-If this looks good to you, read on!
-
 ## The sprints and the showcase
 The Emporium of Digital Delights starts on 17 May 2021. There will be three Sprints, each of which will last 12 days. You can participate in any one of them, or any two, or all three. 
 
@@ -60,6 +49,15 @@ Each of the three Sprints will follow the same 2-week schedule. Here is a provis
 Look through the varied set of [challenges]({{ "/challenges/" | absolute_url }}) that we have designed. These will help you shape the projects you work on during the Sprints and they should be suitable for all levels of experience, whether Basic, Intermediate or Advanced.
 
 In addition, we will be awarding [Open Badges]({{ "/open-badges/" | absolute_url }})  as a way of recognising what you achieve during your participation in the Emporium of Digital Delights.
+
+## Beginners start here
+
+If it all seems a bit confusing right now, we've listed four projects below that will help you get started with The Emporium of Digital Delights. These are particularly appropriate if you don't yet have a whole of experience with programming.
+
+* [Make a text-based game]({{ "/challenges/make-a-text-based-game/" | absolute_url}})
+* [Make an informative website]({{ "/challenges/make-an-informative-website/" | absolute_url}})
+* [Make me happy]({{ "/challenges/make-me-happy/" | absolute_url}})
+* [Make Sound with Pure Data]({{ "/challenges/make-sound-with-pure-data/" | absolute_url}})
 
 
 
