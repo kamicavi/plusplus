@@ -34,7 +34,13 @@ twitter:
 
 minimal_mistakes_skin: contrast
 search_provider: algolia
-search: false
+search: true
+
+algolia:
+  application_id: Z3K79AEGDB
+  index_name: search_prewiredplusplus
+  search_only_api_key: 9dd2c658773cc80e176890b8bcc48deb
+  powered_by: # true (default), false
 
 # SEO Related
 google_site_verification :
@@ -91,6 +97,7 @@ exclude:
 # Plugins (previously gems:)
 plugins:
   - jemoji
+  - jekyll-algolia
 
 author:
   name   : "name"
