@@ -13,6 +13,7 @@ tags:
 - visual programming language
 - interactive audio
 - pure data
+- music
 title: The Pure Data Sound Emporium
 sidebar: true
 header:
@@ -25,6 +26,6 @@ Pd for Airports (Creating Ambient Music in Pure Data) | Simon Hutchinson: <a hre
  
 
 ## Resources
-<a href="https://puredata.info/downloads/pure-data" rel="noopener">https://puredata.info/downloads/pure-data</a> | 
-<a href="https://www.youtube.com/watch?v=oXE7BvUd8W0" rel="noopener">https://www.youtube.com/watch?v=oXE7BvUd8W0</a> |
+* <a href="https://puredata.info/downloads/pure-data" rel="noopener">https://puredata.info/downloads/pure-data</a> 
+* <a href="https://www.youtube.com/watch?v=oXE7BvUd8W0" rel="noopener">https://www.youtube.com/watch?v=oXE7BvUd8W0</a> |
 

@@ -12,6 +12,7 @@ tags:
 - visual programming language
 - interactive audio
 - pure data
+- music
 title: Make Sound with Pure Data
 sidebar: true
 header:

@@ -19,12 +19,14 @@ sidebar: true
 header:
   teaser: /assets/images/intermediate.png
 ---
-Create a looping and remixing music sampler by importing music and sound files using arrays and soundfilers, OR create a sequenced music patch in Pure Data
+Create a looping and remixing music sampler by importing music and sound files using arrays and soundfiler. Alternatively, create a sequenced music patch in Pure Data.
 
 ## Example projects
-Pure Data Music Sequencer <a href="https://www.youtube.com/watch?v=VgCXpIlOgHI" rel="noopener">https://www.youtube.com/watch?v=VgCXpIlOgHI</a>
+Pure Data Music Sequencer: <a href="https://www.youtube.com/watch?v=VgCXpIlOgHI" rel="noopener">https://www.youtube.com/watch?v=VgCXpIlOgHI</a>
  
 
 ## Resources
-<a href="https://puredata.info/downloads/pure-data" rel="noopener">https://puredata.info/downloads/pure-data</a> | <a href="https://www.youtube.com/watch?v=YCChpCaza5k" rel="noopener">https://www.youtube.com/watch?v=YCChpCaza5k</a> |
+
+* <a href="https://puredata.info/downloads/pure-data" rel="noopener">Download Pure Data</a>
+* <a href="https://www.youtube.com/watch?v=YCChpCaza5k" rel="noopener">https://www.youtube.com/watch?v=YCChpCaza5k</a>
 

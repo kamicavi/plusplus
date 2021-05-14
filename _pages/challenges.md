@@ -11,7 +11,7 @@ header:
 # toc_sticky: true
 ---
 We have designed a big range of challenges for you, with a wide variety of approaches. We have divided them into five broad themes:
-<a href="#gamesdev">Games development</a>, <a href="#webdev">Web development</a>, <a href="#audio">Interactive audio</a>, <a href="#textproc">Text processing</a> and <a href="#dataproc">Data processing</a>.
+<a href="#gamesdev">Game development</a>, <a href="#webdev">Web development</a>, <a href="#audio">Interactive audio</a>, <a href="#textproc">Text processing</a> and <a href="#dataproc">Data processing</a>.
 
 Within each theme, the challenges are sorted by level of difficulty: **basic**, **intermediate** and **advanced**. The ones at the basic level don't require that you already know anything about that particular theme and are deliberately gentle in terms of the programming involved. 
 
@@ -20,7 +20,7 @@ Don't worry if you choose a challenge that seems a bit too easy. We will have lo
 You can also look at <a href="{{ '/tags/' | relative_url }}">the challenges filtered by tag</a>.
 
 <div class="feature__wrapper">
-    <h1 id="gamesdev">Games Development</h1>
+    <h1 id="gamesdev">Game Development</h1>
     {% assign textproc = site.challenges | where: 'theme','gamesdev' | sort: 'number' %}
     <div class="entries-grid">
         {%- for post in textproc -%}
