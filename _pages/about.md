@@ -7,7 +7,9 @@ header:
  image: /assets/images/splash-1660x400.jpg
 ---
 
-Pre-Covid, [our Prewired coding club](https://www.prewired.org) operated on a face-to-face basis with close interaction between young people and volunteers within a safe space. Thanks to funding from the [Creative Informatics Resident Entrepreneur programme](https://creativeinformatics.org/news/our-round-4-resident-entrepreneurs-have-arrived/), we have been able to embark on the challenge of recreating that experience in an online environment. We call this new initiative <b>Prewired++</b>.
+Pre-Covid, [our Prewired coding club](https://www.prewired.org) operated on a face-to-face basis with close interaction between young people and volunteers within a safe space. Thanks to funding from the [Creative Informatics Resident Entrepreneur programme](https://creativeinformatics.org/news/our-round-4-resident-entrepreneurs-have-arrived/), we have been able to embark on the challenge of recreating that experience in an online environment. We call this new initiative <b>Prewired++</b>. 
+
+In collaboration with [Tinderbox Collective](https://tinderboxcollective.org), Prewired++ has designed and mounted The Emporium of Digital Delights for summer 2021.
 
 
 # Goals of Prewired++
@@ -25,5 +27,3 @@ Pre-Covid, [our Prewired coding club](https://www.prewired.org) operated on a fa
 5. Develop and try out sustainable business models that allow us to for continue Prewired++ after Creative Informatics funding has ended. As a part of this, we plan to build a portfolio of shareable resources that distil the successes and challenges we encounter during the progress of the project.
 
 In the course of the project, our Advisory Board will help us become more inclusive in reaching out to a wider audience of young people. We will also establish a partnership programme with third sector organisations so that by combining our expertise, social engagement approaches and outreach activities we can together substantially broaden the digital skill opportunities for young people in the Edinburgh region.
-
-![Creative Informatics Logo](/assets/images/CI-logo-on-white.png){: .full}

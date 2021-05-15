@@ -25,6 +25,7 @@ You could aim to include elements such as an objective and at least two of these
  
 
 ## Resources
+* [Learn Unity](https://learn.unity.com)
 * How to make a 2D game in Unity: <a href="https://www.youtube.com/watch?v=on9nwbZngyw" rel="noopener">https://www.youtube.com/watch?v=on9nwbZngyw</a> 
 * Platform game in Unity: <a href="https://learn.unity.com/project/2d-platformer-template" rel="noopener">https://learn.unity.com/project/2d-platformer-template</a> 
 * Make your first 2D game: <a href="https://www.youtube.com/playlist?list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97" rel="noopener">https://www.youtube.com/playlist?list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97</a>
