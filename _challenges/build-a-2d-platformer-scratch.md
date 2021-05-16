@@ -14,7 +14,7 @@ tags:
 title: Build a 2D Platformer in Scratch
 sidebar: true
 header:
-  teaser: /assets/images/intermediate.png
+  teaser: /assets/images/basic.png
 ---
 Create a 2D platform game using Scratch. Figure out what 
 sort of moves you want your character to have — for example: jump, double jump, wall jump, dash.
