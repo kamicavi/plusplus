@@ -55,6 +55,7 @@ In addition, we will be awarding [Open Badges]({{ "/open-badges/" | absolute_url
 If it all seems a bit confusing right now, we've listed four projects below that will help you get started with The Emporium of Digital Delights. These are particularly appropriate if you don't yet have a whole of experience with programming.
 
 * [Make a text-based game]({{ "/challenges/make-a-text-based-game/" | absolute_url}})
+* [Build a 2D Platformer in Scratch]({{ "/challenges/build-a-2d-platformer-scratch/" | absolute_url}})
 * [Make an informative website]({{ "/challenges/make-an-informative-website/" | absolute_url}})
 * [Make me happy]({{ "/challenges/make-me-happy/" | absolute_url}})
 * [Make Sound with Pure Data]({{ "/challenges/make-sound-with-pure-data/" | absolute_url}})

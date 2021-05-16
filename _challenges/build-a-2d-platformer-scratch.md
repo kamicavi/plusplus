@@ -1,5 +1,5 @@
 ---
-badge: Intermediate Games Dev
+badge: Games Dev
 theme: gamesdev
 number: 2
 excerpt: Scratchy bounce
