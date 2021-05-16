@@ -6,6 +6,10 @@ classes: wide
 header:
  image: /assets/images/splash-1660x400.jpg
 ---
+## Prewired++ Open Badges
+
+Look here for the complete list of [Prewired++ Open Badges](https://eu.badgr.com/public/issuers/OBHqkmIkSwqrbl3Hhl8m5w/badges).
+
 ## What are Open Badges?
 
 [Open Badges](https://openbadges.org/) are a kind of digital certificate. They are called **open** because there is an open standard for specifying how badges work, both in terms of the external 'view' and the digital innards which stores data about the badge: who issued it, who was awarded it, what achievement it represents, why it was awarded, and so on.
@@ -23,3 +27,10 @@ First off, we think Open Badges are cool 😀. But more importantly, we think th
 However, we will also be awarding badges to recognise skills such as teamwork, project planning and documenting your code. 
 
 {% include figure image_path="/assets/images/not-just-employing-the-extroverts.png" alt="" caption="[Why Digital Credentials?](https://bryanmmathers.com/hashtag/openbadges/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/)" %}
+
+## How do the Prewired++ Open Badges fit together?
+
+Here is a provisional diagram:
+
+{% include figure image_path="/assets/images/learning-pathways.png" alt="Diagram of Prewired++ Learning Pathways with Open Badges" %}
+
